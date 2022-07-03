@@ -11,4 +11,5 @@ The user can search in the services<br>
 The user can change his name , email 📧, password 🔑 and phone number 📞<br>
   </p>
   <p>Languages used : Java ☕, XML</p>
-<h2>You can also watch some pictures about this project via this <a href="https://drive.google.com/drive/folders/1Me9l1DfzzdhqN44gbrq5vHuFsyD7gV52">Link🔗</a></h2>
+  ![poster2](https://user-images.githubusercontent.com/90563044/177055542-4453d9ba-8188-45aa-802f-14a812ae75c3.jpeg)
+  ![poster1](https://user-images.githubusercontent.com/90563044/177055547-1f3e9839-d9d1-4089-b085-2f0ed39466de.jpeg)
