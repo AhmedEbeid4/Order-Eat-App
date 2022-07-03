@@ -1,5 +1,4 @@
 # Order & Eat App 🍔
-  ![poster2](https://user-images.githubusercontent.com/90563044/177055542-4453d9ba-8188-45aa-802f-14a812ae75c3.jpeg)
 
 <h2>Android Application (<b>Java</b>) ☕📱</h2>
 
@@ -17,5 +16,11 @@ The user can change his name , email 📧, password 🔑 and phone number 📞<b
   
   
   ![poster1](https://user-images.githubusercontent.com/90563044/177055547-1f3e9839-d9d1-4089-b085-2f0ed39466de.jpeg)
+
+
+
+
+
+  ![poster2](https://user-images.githubusercontent.com/90563044/177055542-4453d9ba-8188-45aa-802f-14a812ae75c3.jpeg)
 
 
