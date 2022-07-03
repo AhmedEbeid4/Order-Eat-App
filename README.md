@@ -1,4 +1,6 @@
 # Order & Eat App 🍔
+  ![poster2](https://user-images.githubusercontent.com/90563044/177055542-4453d9ba-8188-45aa-802f-14a812ae75c3.jpeg)
+
 <h2>Android Application (<b>Java</b>) ☕📱</h2>
 
 The application allows you to order different types of food 🍔🍕🍞 with required quantities and providing an interface to register your data as a consumer in the restaurant that we had showed in a <b>list View</b> 
@@ -11,5 +13,4 @@ The user can search in the services<br>
 The user can change his name , email 📧, password 🔑 and phone number 📞<br>
   </p>
   <p>Languages used : Java ☕, XML</p>
-  ![poster2](https://user-images.githubusercontent.com/90563044/177055542-4453d9ba-8188-45aa-802f-14a812ae75c3.jpeg)
 
